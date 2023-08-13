@@ -1,0 +1,29 @@
+table
+{
+
+height:70%;
+width:70%;
+border-collapse:collapse;
+border:5% solid black:
+}
+tr,td,th
+{
+border:5% solid blue;
+trxt-align:center;
+}
+img
+{
+align :center;
+height:50%;
+width:50%;
+border-radius:50%;
+border-style:double;
+}
+td:hover
+{
+background-color:blue;
+}
+img
+{
+align:cente;
+}
