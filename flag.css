@@ -1,0 +1,116 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.flag:hover
+{
+    border:2px solid black;
+    
+
+}
+ .top{
+    height: 250px;
+    width: 1400px;
+    background-color: orange;
+ }
+
+.middle
+{
+    height: 250px;
+    width: 1400px;
+    background-color: white;
+    display:flex;
+    
+}
+.bottom
+{
+    height: 250px;
+    width: 1400px;
+    background-color:darkgreen;
+}
+.chakra
+{
+    height:250px;
+    width:250px;
+    border-radius:50%;
+    position:relative;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border:2px solid darkblue;
+}
+.line
+{
+    height:248px;
+    width:2px;
+    background-color: darkblue;
+    position:absolute;
+    margin-left: 50%;
+
+}
+.line:nth-child(2)
+{
+    transform:rotate(15deg);
+}
+
+.line:nth-child(3)
+{
+    transform:rotate(30deg);
+}
+
+.line:nth-child(4)
+{
+    transform:rotate(45deg);
+}
+
+.line:nth-child(5)
+{
+    transform:rotate(60deg);
+}
+
+.line:nth-child(6)
+{
+    transform:rotate(75deg);
+}
+
+.line:nth-child(7)
+{
+    transform:rotate(90deg);
+}
+
+.line:nth-child(8)
+{
+    transform:rotate(105deg);
+}
+
+.line:nth-child(9)
+{
+    transform:rotate(120deg);
+}
+
+.line:nth-child(10)
+{
+    transform:rotate(135deg);
+}
+
+.line:nth-child(11)
+{
+    transform:rotate(150deg);
+}
+
+.line:nth-child(12)
+{
+    transform:rotate(165deg);
+}
+
+.line:nth-child(13)
+{
+    transform:rotate(180deg);
+}
+
+.line:nth-child(14)
+{
+    transform:rotate(195deg);
+}
